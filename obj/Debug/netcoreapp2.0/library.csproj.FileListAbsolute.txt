@@ -1,0 +1,10 @@
+C:\source\codeworks\projects\c#\library\bin\Debug\netcoreapp2.0\library.deps.json
+C:\source\codeworks\projects\c#\library\bin\Debug\netcoreapp2.0\library.runtimeconfig.json
+C:\source\codeworks\projects\c#\library\bin\Debug\netcoreapp2.0\library.runtimeconfig.dev.json
+C:\source\codeworks\projects\c#\library\bin\Debug\netcoreapp2.0\library.dll
+C:\source\codeworks\projects\c#\library\bin\Debug\netcoreapp2.0\library.pdb
+C:\source\codeworks\projects\c#\library\obj\Debug\netcoreapp2.0\library.csproj.CoreCompileInputs.cache
+C:\source\codeworks\projects\c#\library\obj\Debug\netcoreapp2.0\library.AssemblyInfoInputs.cache
+C:\source\codeworks\projects\c#\library\obj\Debug\netcoreapp2.0\library.AssemblyInfo.cs
+C:\source\codeworks\projects\c#\library\obj\Debug\netcoreapp2.0\library.dll
+C:\source\codeworks\projects\c#\library\obj\Debug\netcoreapp2.0\library.pdb
